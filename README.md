@@ -49,7 +49,7 @@ Hello potential user! Collection Perfection is a program developed to allow for 
 
 # Code Contributors
 
-Serena D'Avanzo - [College Github](https://github.com/serenad96) [Personal Github](https://github.com/Sereenabee)  
+Serena D'Avanzo - [College Github](https://github.com/serenad96) [Personal Github](https://github.com/renabeth)  
 Aubrey "Aubsickle" Morra - [College Github](https://github.com/AubsFSC) [Personal Github](https://github.com/Aubsickle)  
 Selin Saracoglu - [Github](https://github.com/selincs)  
 
