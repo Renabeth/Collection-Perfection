@@ -2,6 +2,9 @@
 
 ![Static Badge](https://img.shields.io/badge/-Open_In_Intellij_IDEA-blue?logo=intellijidea) ![GitHub contributors](https://img.shields.io/github/contributors/serenad96/CSC325-Collection-Perfection)
 
+### Info
+This project was originally created under my other github account for my software engineering class. This repository is a fork of that. Contribution details are listed at the bottom of the readme.
+
 ### Description
 Hello potential user! Collection Perfection is a program developed to allow for people to easily keep track of their collections, whether real or digital. With sites such as Discogs or Anilist allowing people to store one specific collection we thought "Why not be able to store all your collections in one place?" and with that in mind we began developing.
 
